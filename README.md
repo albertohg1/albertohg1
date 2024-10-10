@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi Everybody 👋. My name is Albert, a Data Analyst!
+[![Outlook Badge](https://img.shields.io/badge/alberto.hernandez.g@hotmail.com-Outlook-blue?logo=microsoftoutlook&logoColor=white)](mailto:alberto.hernandez.g@hotmail.com) [![LinkedIn Badge](https://img.shields.io/badge/jose--alberto--hernandez-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alberto-hernandez)
+
+
 
 <!--
 **albertohg1/albertohg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
